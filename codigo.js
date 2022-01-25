@@ -1,3 +1,4 @@
+crear 
 class Celulares {
     constructor(color, peso, rdp, rdc, ram){
         this.color =   color;

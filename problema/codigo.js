@@ -1,3 +1,4 @@
+// Problema: preguntar edad, los menores no ingresan, y el que ingresa a las 2:00Hs tiene pase libre
 let free = false;
 
 const validateCliente = (time)=>{
